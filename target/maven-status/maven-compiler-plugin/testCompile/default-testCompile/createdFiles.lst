@@ -1,0 +1,14 @@
+example\TestUtils.class
+example\TestUtils$DynamodbEventMixin$AttributeValueMixIn.class
+example\TestContext.class
+example\TestUtils$DynamodbEventMixin$RecordMixin.class
+example\TestUtils$DateTimeSerializer.class
+example\HelloTest.class
+example\TestUtils$DynamodbEventMixin$StreamRecordMixin.class
+example\TestUtils$DynamodbEventMixin.class
+example\TestUtils$UpperCaseRecordsPropertyNamingStrategy.class
+example\TestUtils$TestJacksonMapperModule.class
+example\TestContext$1.class
+example\TestUtils$1.class
+example\TestUtils$DateTimeDeserializer.class
+example\TestContext$TestLogger.class
